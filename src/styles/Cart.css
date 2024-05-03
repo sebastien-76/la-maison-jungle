@@ -8,11 +8,6 @@
 	width: 300px;
 }
 
-.lmj-cart-ul {
-	list-style-type: none;
-	padding: 0;
-}
-
 .lmj-cart-add-button {
 	margin-left: 32px;
 	cursor: pointer;
@@ -28,6 +23,11 @@
 	padding: 0;
 	color: white;
 	align-self: flex-end;
+}
+
+.lmj-cart-ul {
+	list-style-type: none;
+	padding: 0;
 }
 
 .lmj-cart-closed {
